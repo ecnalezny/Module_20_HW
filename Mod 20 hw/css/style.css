@@ -1,3 +1,26 @@
 .navbar{
     background-color:lightblue !important;
 }
+body{
+    background-color: lightgray;
+}
+.dropdown-menu{
+    background-color: rgb(127, 198, 222);
+}
+.dropdown-menu :hover{
+    background-color: rgb(100, 181, 216);
+}
+.card{
+    margin: 15px;
+    background-color: lightblue;
+}
+.intro{
+    margin: 30px;
+}
+
+.wireframes{
+    margin: 30px;
+}
+p{
+font-size: 20px;
+}
